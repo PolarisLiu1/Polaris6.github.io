@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master’s student at [USTC](https://en.ustc.edu.cn/), supervised by [Prof. Tong Xu](http://staff.ustc.edu.cn/~tongxu/) in the BDAA Lab. I received my Bachelor’s degree at [HFUT](https://www.hfut.edu.cn/) in 2024.
+I am currently a Master’s student at [USTC](https://en.ustc.edu.cn/), supervised by [Prof. Tong Xu](http://staff.ustc.edu.cn/~tongxu/) in the [BDAA Lab](https://bigdata.ustc.edu.cn/). I received my Bachelor’s degree at [HFUT](https://www.hfut.edu.cn/) in 2024.
 
 Links: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=limd4PkAAAAJ&view_op=list_works&gmla=AKzYXQ0B9jaTavaDN_bbP6jik8zwxnr7vtNpcqJLMRNcJfEw9JT3fPMsdW1YQUu0VpupW53q4wwiIIp6RqDq7uKdRL8SGObvSlPG2tj4hhk), [GitHub](https://github.com/PolarisLiu1)
 
@@ -83,9 +83,7 @@ Fei Liu, Xuegang Hu, **Shuochen Liu**, Chenyang Bu, Le Wu
 - *2024.06* Outstanding Graduates of Anhui Province’s Ordinary Colleges and Universities.
 - *2023.05* Top Ten Outstanding Students
 - *2022.12 & 2023.12* Undergraduate National Scholarship, Ministry of Education of the People’s Republic of China.
-- *2021.12 & 2022.12 & 2023.12* Undergraduate First-Class Scholarship
 - *2022.11* National Second Prize in Mathematical Modeling
-- *2022.11* Silver Award in the Provincial 'Internet+' 
 - *2022* Huawei Intelligent Base Scholarship
 
 
