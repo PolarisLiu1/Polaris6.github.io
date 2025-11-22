@@ -25,7 +25,7 @@ My research interests focus on Large Language Models, Reinforcement Learning, Pe
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/lat.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Look As You Think: Unifying Reasoning and Visual Evidence Attribution for Verifiable Document RAG via Reinforcement Learning](https://arxiv.org/pdf/2511.12003)
@@ -35,17 +35,17 @@ My research interests focus on Large Language Models, Reinforcement Learning, Pe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'24</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'24</div><img src='images/framework2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastMem: fast memorization of prompt improves context awareness of large language models](https://arxiv.org/pdf/2511.12003)
+[FastMem: fast memorization of prompt improves context awareness of large language models](https://arxiv.org/pdf/2406.16069)
 
 Junyi Zhu<sup>*</sup>, **Shuochen Liu<sup>*</sup>**, Yu Yu, Bo Tang, Yibo Yan, Zhiyu Li, Feiyu Xiong, Tong Xu, Matthew B Blaschko
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'25</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'25</div><img src='images/chen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Think Wider, Detect Sharper: Reinforced Reference Coverage for Document-Level Self-Contradiction Detection](https://aclanthology.org/2025.emnlp-main.67.pdf)
@@ -56,7 +56,7 @@ Yuhao Chen, Yuanjie Lyu, **Shuochen Liu**, Chao Zhang, Junhui Lv, Tong Xu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'23</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD'23</div><img src='images/mmear.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Meta multi-agent exercise recommendation: A game application perspective](https://dl.acm.org/doi/abs/10.1145/3580305.3599429)
