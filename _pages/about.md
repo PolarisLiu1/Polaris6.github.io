@@ -45,6 +45,17 @@ Junyi Zhu<sup>*</sup>, **Shuochen Liu<sup>*</sup>**, Yu Yu, Bo Tang, Yibo Yan, Z
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/chen2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning](https://arxiv.org/pdf/2507.12215)
+
+Yuhao Chen, **Shuochen Liu**, Yuanjie Lyu, Chao Zhang, Jiayao Shi, Tong Xu
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'25</div><img src='images/chen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
