@@ -67,10 +67,12 @@ Fei Liu, Xuegang Hu, **Shuochen Liu**, Chenyang Bu, Le Wu
 </div>
 
 # 🎖 Honors and Awards
+- *2024.10 & 2025.10* Graduate First-Class Scholarship
 - *2024.06* President Scholarship, Hefei University of Technology (2024)
 - *2024.06* Outstanding Graduates of Anhui Province’s Ordinary Colleges and Universities.
 - *2023.05* Top Ten Outstanding Students
 - *2022.12 & 2023.12* Undergraduate National Scholarship, Ministry of Education of the People’s Republic of China.
+- *2021.12 & 2022.12 & 2023.12* Undergraduate First-Class Scholarship
 - *2022.11* National Second Prize in Mathematical Modeling
 - *2022.11* Silver Award in the Provincial 'Internet+' 
 - *2022* Huawei Intelligent Base Scholarship
