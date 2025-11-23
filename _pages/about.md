@@ -21,7 +21,7 @@ I am currently a Master’s student at [USTC](https://en.ustc.edu.cn/), supervis
 
 Links: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=limd4PkAAAAJ&view_op=list_works&gmla=AKzYXQ0B9jaTavaDN_bbP6jik8zwxnr7vtNpcqJLMRNcJfEw9JT3fPMsdW1YQUu0VpupW53q4wwiIIp6RqDq7uKdRL8SGObvSlPG2tj4hhk), [GitHub](https://github.com/PolarisLiu1)
 
-My research interests focus on Large Language Models, Reinforcement Learning, Personalized memory for AI agents.
+My research interests focus on (Multi-modal) LLMs, Reinforcement Learning, Personalized memory for AI agents.
 
 # 📝 Publications 
 
