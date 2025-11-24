@@ -89,5 +89,5 @@ Fei Liu, Xuegang Hu, **Shuochen Liu**, Chenyang Bu, Le Wu
 
 
 # 💻 Internships
-- *2024.03 - 2024.08*, [Institute for Advanced Algorithms Research, Shanghai](https://www.iaar.ac.cn/).
-- *2025.09 - present*, [MemTensor](https://www.memtensor.com.cn/).
+- *2024.03 - 2024.08*, [Institute for Advanced Algorithms Research, Shanghai](https://www.iaar.ac.cn/), Research Intern.
+- *2025.09 - present*, [MemTensor](https://www.memtensor.com.cn/), Research Intern.
